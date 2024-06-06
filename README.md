@@ -14,8 +14,8 @@ You have to create PayPal REST sandbox credentials and copy/move api/config/Conf
 
 A running LAMP environment is necessary. Clone the git to the root folder of that installation.
 ```sh
-git clone https://github.com/tozielinski/pp-php-sdk-example.git
-cd pp-php-sdk-example/api/config
+git clone https://github.com/tozielinski/pp-php-advanced.git
+cd pp-php-advanced/api/config
 cp Config.php.sav Config.php
 ```
 Now you must add your credentials in Config.php.
