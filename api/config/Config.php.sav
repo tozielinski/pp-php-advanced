@@ -1,0 +1,21 @@
+<?php
+
+define("PAYPAL_CREDENTIALS", array(
+	"sandbox" => [
+		"client_id" => "",
+		"client_secret" => ""
+	],
+	"production" => [
+		"client_id" => "",
+		"client_secret" => ""
+	]
+));
+
+define("PAYPAL_ENVIRONMENT", "sandbox");
+
+define("PAYPAL_ENDPOINTS", array(
+	"sandbox" => "https://api-m.sandbox.paypal.com",
+	"production" => "https://api-m.paypal.com"
+));
+
+?>
