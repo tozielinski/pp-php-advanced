@@ -1,7 +1,7 @@
 # PayPal Advanced Checkout using PHP
 [![Project status: active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Project tags](https://img.shields.io/github/v/tag/tozielinski/pp-php-advanced?logo=github)](https://github.com/tozielinski/pp-php-advanced/tags)
-[![Project license](https://img.shields.io/github/license/tozielinski/pp-php-advanced?logo=github)](https://github.com/tozielinski/pp-php-advanced/blob/main/LICENSE)
+[![Project license](https://img.shields.io/github/license/tozielinski/pp-php-advanced?logo=github)](https://github.com/tozielinski/pp-php-advanced/LICENSE)
 <!-- [![Project contributors](https://img.shields.io/github/contributors/tozielinski/pp-php-sdk-example?logo=github)](https://github.com/tozielinski/pp-php-sdk-example/graphs/contributors) -->
 <!-- [![Project build Status](https://badges.netlify.com/api/docsydocs.svg?branch=main)](https://app.netlify.com/sites/docsydocs/deploys) -->
 A simple PayPal Advanced Checkout example using PHP
