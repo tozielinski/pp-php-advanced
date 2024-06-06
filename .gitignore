@@ -1,0 +1,6 @@
+.htaccess
+.htpasswd
+
+# mac-os defaults
+.DS_store
+*.map
